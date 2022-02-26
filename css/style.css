@@ -141,6 +141,17 @@ a:hover {
   font-size: 1.1rem;
 }
 
+/*--/ Title c /--*/
+
+.title-c {
+  font-weight: 600;
+  color: #1e1e1e;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+
+
 /*--/ Title A /--*/
 
 .title-box {
